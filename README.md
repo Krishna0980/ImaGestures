@@ -7,3 +7,15 @@ __Elements__
 * Rotate Gesture
 * Swipe Gesture
 * Pan Gesture
+<p>
+<img width="185" alt="Image1" src="https://user-images.githubusercontent.com/75938203/124649701-75ff1e80-deb6-11eb-82fd-5096a40622fc.png">
+</p>
+<p>
+<img width="180" alt="Image2" src="https://user-images.githubusercontent.com/75938203/124649768-88795800-deb6-11eb-8215-8852ab7e7b96.png">
+</p>
+<p>
+<img width="184" alt="Image3" src="https://user-images.githubusercontent.com/75938203/124649820-9af39180-deb6-11eb-914a-c6048c55d10d.png">
+</p>
+  
+
+
